@@ -1,0 +1,45 @@
+name: p310ds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - bokeh
+  - bzip2
+  - ca-certificates
+  - cartopy
+  - certifi
+  - cftime
+  - dask
+  - dask-core
+  - esmf
+  - esmpy
+  - gsw
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - nb_conda
+  - nb_conda_kernels
+  - nbconvert
+  - nc-time-axis
+  - netcdf-fortran
+  - netcdf4
+  - numpy
+  - pandas
+  - pyproj
+  - statsmodels
+  - xarray
+  - yaml
+  - xesmf
+  - hvplot
+  - ipympl
+  - openpyxl
+  - bottleneck
+  - python-graphviz
+  - spectrum
+  - windrose
+  - cmocean
+  - regionmask
