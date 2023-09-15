@@ -1,3 +1,5 @@
 figures/
 .ipynb_checkpoints/
+.DS_Store
+.gitattributes 
 __pycache__/
