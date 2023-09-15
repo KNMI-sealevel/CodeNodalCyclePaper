@@ -2,7 +2,7 @@
 Use tide gauge data and temperature and salinity data to study the effect of the nodal cycle on steric changes in sea level. 
 
 This is the code supporting Bult et al. 2023, [to submit to Geophysical Research Letters]
-This repository can be cited using ...
+This repository can be cited using [Link to Zenodo]
 
 The analysis is organized in three steps:
 1. *prepare_atmospheric_data.ipynb* explains how to download the input data, preprocess the data and export to .csv files. 
