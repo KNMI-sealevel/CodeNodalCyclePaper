@@ -11,7 +11,7 @@ The analysis is organized in three steps:
 
 The analysis of the steric changes in sea level datasets as described in the supplementary material is also in *Nodalcycle_steric.ipynb*. 
 
-### Reproducability
+### Reproducibility
 Using a conda environment with the most recent version of numpy, pandas, cartopy and xarray should suffice to run the code in all three notebooks. 
 In the notebooks, only the path needs to be adjusted if the original structure of the folders is preserved. 
 
